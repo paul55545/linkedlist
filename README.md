@@ -1,7 +1,8 @@
 # linkedlist
 
 <h1>Descriere algoritm</h1>
-https://www.tutorialspoint.com/data_structures_algorithms/linked_lists_algorithm.htm
+https://www.tutorialspoint.com/data_structures_algorithms/linked_lists_algorithm.htm <br>
+https://people.engr.ncsu.edu/efg/210/s99/Notes/LinkedList.1.html
 
 <h3>Todo: </h3>
 <ul>
